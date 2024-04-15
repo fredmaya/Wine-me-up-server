@@ -1,0 +1,92 @@
+[
+  {
+    "image": "https://images.vivino.com/thumbs/dwpYXmARRTGhvn7GOZ9QJw_pb_x600.png",
+    "winery": "Korbel",
+    "wine": "Brut",
+    "price_range": "Under 20 CAD",
+    "description": "Korbel Brut is a crisp, dry sparkling wine with flavors of green apple, citrus, and toasted bread. It's a versatile option for celebrations or as an aperitif.",
+    "food_pairing": "Brunch dishes, seafood platter, fried chicken",
+    "appetizer_pairing": "Deviled eggs with caviar",
+    "country": "United States"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/lOSNkG3AQbyUmz9xlXRJbg_pb_x600.png",
+    "winery": "Gruet",
+    "wine": "Blanc de Blancs",
+    "price_range": "Under 25 CAD",
+    "description": "Gruet Blanc de Blancs is made from 100% Chardonnay grapes and offers crisp acidity, with flavors of green apple, pear, and lemon zest. It has a creamy texture and a long, refreshing finish.",
+    "food_pairing": "Sushi, oysters Rockefeller, lemon meringue pie",
+    "appetizer_pairing": "Brie and pear puff pastry bites",
+    "country": "United States"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/tZCwXM0dRbOMbLcz4DoEJg_pb_x600.png",
+    "winery": "Domaine Ste. Michelle",
+    "wine": "Brut Rosé",
+    "price_range": "Under 25 CAD",
+    "description": "Domaine Ste. Michelle's Brut Rosé is a festive sparkling wine with aromas of strawberries, raspberries, and rose petals. It has a lively acidity and a delicate mousse, making it perfect for toasting special occasions.",
+    "food_pairing": "Fruit tart, chicken salad sandwiches, charcuterie board",
+    "appetizer_pairing": "Crab-stuffed mushrooms",
+    "country": "United States"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/HxjD8_4-SA-T1MG32y9_1Q_pb_x600.png",
+    "winery": "Freixenet",
+    "wine": "Cava",
+    "price_range": "Under 25 CAD",
+    "description": "Freixenet Cava is a popular Spanish sparkling wine with lively bubbles and refreshing flavors of green apple, citrus, and toasted almonds. It's a versatile option for celebrations or as an aperitif.",
+    "food_pairing": "Tapas, seafood paella, fried chicken",
+    "appetizer_pairing": "Spanish olives and almonds",
+    "country": "Spain"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/x_48RVzvScSGFyHYa0KMlA_pb_x600.png",
+    "winery": "Segura Viudas",
+    "wine": "Cava",
+    "price_range": "Under 30 CAD",
+    "description": "Segura Viudas Cava is a crisp and refreshing Spanish sparkling wine with delicate bubbles and flavors of green apple, pear, and citrus. It's a great choice for toasting special occasions or enjoying with appetizers.",
+    "food_pairing": "Bruschetta, sushi, grilled shrimp",
+    "appetizer_pairing": "Smoked salmon canapés",
+    "country": "Spain"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/naweP9jmQKiKMtXO0IaP1w_pb_x600.png",
+    "winery": "Mumm Napa",
+    "wine": "Brut Rosé",
+    "price_range": "Under 35 CAD",
+    "description": "Mumm Napa Brut Rosé is a vibrant sparkling wine with aromas of strawberries, raspberries, and rose petals. It has a lively acidity and a creamy texture, perfect for toasting special moments or pairing with a variety of dishes.",
+    "food_pairing": "Fruit tart, chicken salad sandwiches, charcuterie board",
+    "appetizer_pairing": "Crab-stuffed mushrooms",
+    "country": "United States"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/allYkjnVTsiq2Uhv4pt7kg_pb_x600.png",
+    "winery": "Veuve Clicquot",
+    "wine": "Champagne",
+    "price_range": "Under 60 CAD",
+    "description": "Veuve Clicquot Brut is a prestigious French Champagne known for its consistent quality and signature yellow label. It offers flavors of green apple, citrus, and brioche, with a fine mousse and a lingering finish.",
+    "food_pairing": "Oysters, caviar, roasted chicken",
+    "appetizer_pairing": "Brie and pear puff pastry bites",
+    "country": "France"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/rMVZMDzeRBWHCcA2a0AgFA_pb_x600.png",
+    "winery": "Moët & Chandon",
+    "wine": "Champagne",
+    "price_range": "Under 70 CAD",
+    "description": "Moët & Chandon Brut Impérial is a classic French Champagne with a perfect balance of freshness and intensity. It features flavors of green apple, citrus, and toasted bread, with a fine, persistent mousse.",
+    "food_pairing": "Shellfish, sushi, white chocolate desserts",
+    "appetizer_pairing": "Smoked salmon canapés",
+    "country": "France"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/jm4vQpVbSUmUWlGj6dZNng_pb_x600.png",
+    "winery": "Cleto Chiarli",
+    "wine": "Lambrusco",
+    "price_range": "Under 20 CAD",
+    "description": "Cleto Chiarli Lambrusco is a vibrant Italian red wine with flavors of dark berries, plum, and a hint of earthiness. It has a slight effervescence and a semi-dry finish, making it a versatile pairing for a variety of dishes.",
+    "food_pairing": "Pizza, pasta with tomato sauce, charcuterie platter",
+    "appetizer_pairing": "Bruschetta with cherry tomatoes and basil",
+    "country": "Italy"
+  }
+]

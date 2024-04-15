@@ -1,0 +1,182 @@
+[
+  {
+    "image": "https://images.vivino.com/thumbs/xNc24-J-QgmB54uEEH4PYg_pb_x600.png",
+    "winery": "Inniskillin",
+    "wine": "Riesling",
+    "price_range": "Under 20 CAD",
+    "description": "Riesling offers a touch of sweetness balanced by crisp acidity, enhancing the flavors of poutine while providing a refreshing contrast.",
+    "food_pairing": "Poutine, spicy dishes, Asian cuisine",
+    "appetizer_pairing": "Ahi tuna poke bowls",
+    "country": "Canada"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/DdHBF_5lTw-tN0MHFG1g9g_pb_x600.png",
+    "winery": "Kim Crawford",
+    "wine": "Sauvignon Blanc",
+    "price_range": "Under 25 CAD",
+    "description": "Sauvignon Blanc's vibrant acidity and citrus notes complement the freshness and spice of tacos, especially those with seafood or lighter meats.",
+    "food_pairing": "Fish tacos, shrimp tacos, vegetarian tacos",
+    "appetizer_pairing": "Guacamole with tortilla chips, Ceviche with tortilla chips",
+    "country": "New Zealand"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/7j0nFOSFQqeSBNFAVsbGWQ_pb_x600.png",
+    "winery": "Chateau Ste. Michelle",
+    "wine": "Chardonnay",
+    "price_range": "Under 25 CAD",
+    "description": "Chateau Ste. Michelle's Chardonnay offers ripe apple and pear flavors, accented by notes of vanilla and spice. It has a creamy texture and a lingering finish.",
+    "food_pairing": "Grilled shrimp, roasted turkey, creamy pasta dishes, fried chicken",
+    "appetizer_pairing": "Crab cakes with remoulade sauce",
+    "country": "United States"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/S6_Ul1RuS7qe_o8-htEgSw_pb_x600.png",
+    "winery": "Domaine Zind-Humbrecht",
+    "wine": "Gewürztraminer",
+    "price_range": "Under 25 CAD",
+    "description": "Gewürztraminer's aromatic profile, with notes of lychee, rose petal, and spice, complements the creamy and mildly spiced flavors of butter chicken.",
+    "food_pairing": "Butter chicken, basmati rice, naan bread",
+    "appetizer_pairing": "Vegetable pakoras with mint chutney",
+    "country": "France"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/ZcyDP7caSyGwC3m9q258ug_pb_x600.png",
+    "winery": "Pierre Sparr",
+    "wine": "Pinot Blanc",
+    "price_range": "Under 20 CAD",
+    "description": "Chenin Blanc's crisp acidity and fruity flavors, such as apple and pear, complement the spiced filling of samosas, creating a refreshing pairing.",
+    "food_pairing": "Vegetable samosas, chicken samosas, chutneys",
+    "appetizer_pairing": "Vegetable spring rolls",
+    "country": "France"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/BwsoSmPOSaWag6iDYZwfFw_pb_x600.png",
+    "winery": "La Crema",
+    "wine": "Pinot Gris",
+    "price_range": "Under 25 CAD",
+    "description": "La Crema's Pinot Gris is crisp and refreshing, with flavors of white peach, citrus, and honeydew melon. It has a lively acidity and a clean, zesty finish.",
+    "food_pairing": "Lemon chicken, grilled vegetables, seafood linguine",
+    "appetizer_pairing": "Caprese skewers with balsamic glaze",
+    "country": "United States"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/fuGbg3geRx6ms6Nupd3yrw_pb_x600.png",
+    "winery": "Livio Felluga",
+    "wine": "Pinot Grigio",
+    "price_range": "Under 30 CAD",
+    "description": "Livio Felluga's Pinot Grigio is a crisp and elegant Italian white wine with delicate floral and citrus aromas. It offers flavors of green apple, pear, and mineral notes, with a refreshing acidity.",
+    "food_pairing": "Seafood risotto, grilled vegetables, light salads",
+    "appetizer_pairing": "Shrimp cocktail, bruschetta with tomatoes and basil",
+    "country": "Italy"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/2xQwGlDxRKy4zDAe8a9uRg_pb_x600.png",
+    "winery": "Pio Cesare",
+    "wine": "Cortese",
+    "price_range": "Under 35 CAD",
+    "description": "Gavi di Gavi is a crisp Italian white wine made from the Cortese grape. It features aromas of white flowers and stone fruits, with a zesty citrus flavor and a refreshing finish.",
+    "food_pairing": "Grilled fish, seafood linguine, chicken piccata",
+    "appetizer_pairing": "Antipasto platter with marinated vegetables and cured meats",
+    "country": "Italy"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/FtAtgRnxQlGqeO5-_D607Q_pb_x600.png",
+    "winery": "Dr. Loosen",
+    "wine": "Riesling",
+    "price_range": "Under 20 CAD",
+    "description": "Albariño's crisp acidity and flavors of citrus, green apple, and stone fruit complement the fresh and vibrant flavors of poke, enhancing each bite.",
+    "food_pairing": "Ahi tuna poke, salmon poke, sushi rice bowls",
+    "appetizer_pairing": "Edamame with sea salt",
+    "country": "Germany"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/22d-IKVvQz2NxJ07oQTRuw_pb_x600.png",
+    "winery": "Weingut Stadt Krems",
+    "wine": "Grüner Veltliner",
+    "price_range": "Under 20 CAD",
+    "description": "Grüner Veltliner's zesty acidity, along with flavors of green apple, white pepper, and herbaceous notes, provides a refreshing contrast to the seafood and umami flavors of poke.",
+    "food_pairing": "Salmon poke, octopus poke, seaweed salad",
+    "appetizer_pairing": "Shrimp summer rolls with peanut dipping sauce",
+    "country": "Austria"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/pOpJrYa2Trm1X8OPW8Pj2w_pb_x600.png",
+    "winery": "Montes",
+    "wine": "Sauvignon Blanc",
+    "price_range": "Under 20 CAD",
+    "description": "Montes Sauvignon Blanc is a refreshing Chilean white wine with aromas of citrus, green apple, and fresh herbs. It has crisp acidity and bright fruit flavors, perfect for warm weather enjoyment.",
+    "food_pairing": "Ceviche, grilled fish tacos, goat cheese salad",
+    "appetizer_pairing": "Shrimp cocktail with avocado salsa",
+    "country": "Chile"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/MqPNVzifTOaZZnH49pppaQ_pb_x600.png",
+    "winery": "Burrowing Owl",
+    "wine": "Chardonnay",
+    "price_range": "Under 30 CAD",
+    "description": "Burrowing Owl Chardonnay is a premium Canadian white wine from British Columbia's Okanagan Valley. It exhibits aromas of ripe apple, pear, and citrus, with a creamy texture and well-integrated oak.",
+    "food_pairing": "Grilled salmon, roasted chicken, creamy pasta dishes",
+    "appetizer_pairing": "Smoked salmon canapés",
+    "country": "Canada"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/fYL39nSYRzauDUX0NT_RhQ_pb_x600.png",
+    "winery": "Jackson-Triggs",
+    "wine": "Riesling",
+    "price_range": "Under 20 CAD",
+    "description": "Jackson-Triggs Riesling is a vibrant Canadian white wine with aromas of green apple, lime, and peach. It has a hint of sweetness balanced by crisp acidity, making it versatile and refreshing.",
+    "food_pairing": "Spicy Thai dishes, grilled shrimp, fresh salads, sushi rolls with spicy mayo",
+    "appetizer_pairing": "Fresh spring rolls with peanut dipping sauce, Pork dumplings with sweet chili sauce",
+    "country": "Canada"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/aeX0r_mBT2OqGgxfsdky6A_pb_x600.png",
+    "winery": "Mission Estate Winery",
+    "wine": "Gewürztraminer",
+    "price_range": "Under 20 CAD",
+    "description": "Mission Estate Winery Gewürztraminer offers aromatic notes of lychee, rose petals, and exotic spices. It has a medium body, balanced acidity, and a hint of sweetness, making it a delightful pairing with sushi's diverse flavors.",
+    "food_pairing": "Sushi rolls with spicy mayo, sashimi platter, vegetable tempura",
+    "appetizer_pairing": "Edamame with sea salt, seaweed salad",
+    "country": "New Zealand"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/z-9SVjLsSU6hKCWngR8PsQ_pb_x600.png",
+    "winery": "Inniskillin",
+    "wine": "Pinot Gris",
+    "price_range": "Under 25 CAD",
+    "description": "Inniskillin's Pinot Gris exhibits ripe pear, apple, and citrus aromas with subtle floral undertones. It has a crisp acidity and a medium body, complementing the richness of cheese pasta dishes.",
+    "food_pairing": "Creamy cheese pasta, spinach and ricotta ravioli, baked macaroni and cheese",
+    "appetizer_pairing": "Garlic breadsticks, caprese salad",
+    "country": "Canada"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/zrrlqhQTS2yBUqOmb95mVw_pb_x600.png",
+    "winery": "McKahn",
+    "wine": "Viognier",
+    "price_range": "Under 30 CAD",
+    "description": "Tinhorn Creek's Viognier offers enticing floral aromas, ripe peach, apricot, and honeyed notes. It has a medium to full body with a lush texture and balanced acidity, making it a wonderful accompaniment to roast turkey.",
+    "food_pairing": "Roast turkey with sage stuffing, cranberry sauce, roasted root vegetables",
+    "appetizer_pairing": "Butternut squash soup, pear and goat cheese salad",
+    "country": "United States"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/jAjFPZlvT_iLKvNjeTCqJg_pb_x600.png",
+    "winery": "Cecchi",
+    "wine": "Vernaccia di San Gimignano",
+    "price_range": "Under 20 CAD",
+    "description": "Vernaccia di San Gimignano is a crisp and dry white wine from Tuscany, Italy. It has refreshing acidity and flavors of citrus, green apple, and a hint of minerality, making it an excellent complement to creamy carbonara pasta.",
+    "food_pairing": "Carbonara pasta, creamy risotto, seafood linguine",
+    "appetizer_pairing": "Bruschetta with tomato and basil",
+    "country": "Italy"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/3vWw8RC7Sw-PFzOBZxK3vQ_pb_x600.png",
+    "winery": "Lidl",
+    "wine": "Soave Classico",
+    "price_range": "Under 20 CAD",
+    "description": "Soave Classico is a light-bodied Italian white wine from the Veneto region. It offers delicate floral aromas, crisp acidity, and flavors of pear, lemon, and almond, which pair beautifully with creamy chicken alfredo.",
+    "food_pairing": "Chicken alfredo, grilled chicken, seafood pasta",
+    "appetizer_pairing": "Caprese salad with fresh mozzarella and basil",
+    "country": "Italy"
+  }
+]

@@ -1,0 +1,592 @@
+[
+  {
+    "image": "https://images.vivino.com/thumbs/FsD51r9TTIWPwB6co8Az6Q_pb_x600.png",
+    "winery": "Trapiche",
+    "wine": "Malbec",
+    "price_range": "Around $20 CAD",
+    "description": "Trapiche is a well-known Argentine winery, and their Malbec offers a good representation of the varietal, often characterized by rich fruit flavors and smooth tannins.",
+    "food_pairing": "Grilled steak or beef burgers, Argentine empanadas or asado",
+    "appetizer_pairing": "Grilled vegetable skewers with balsamic glaze",
+    "country": "Argentina"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/K2Ui4ULxQd2S3jcrgwmxYQ_pb_x600.png",
+    "winery": "Catena Zapata",
+    "wine": "Malbec",
+    "price_range": "Around $40 CAD",
+    "description": "Catena Zapata is renowned for producing high-quality Malbec wines. Their Malbec often displays a balance of fruitiness, acidity, and structure, making it a favorite among Malbec enthusiasts.",
+    "food_pairing": "Roasted lamb or beef stew, Dishes with chimichurri sauce",
+    "appetizer_pairing": "Beef empanadas with spicy chimichurri",
+    "country": "Argentina"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/z_Ss9K-QRUCWMLrIuTn6xg_pb_x600.png",
+    "winery": "Bodega Norton",
+    "wine": "Malbec",
+    "price_range": "Around $40 CAD",
+    "description": "Bodega Norton's Malbec Reserva is a step up in quality, offering deeper complexity and aging potential. It showcases ripe fruit flavors, elegant oak integration, and a lingering finish, making it a great choice for those seeking a more refined Malbec experience.",
+    "food_pairing": "Grilled ribeye steak or braised short ribs",
+    "appetizer_pairing": "Crostini with fig jam and prosciutto, Hard cheeses like aged cheddar",
+    "country": "Argentina"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/iqmW7BwLSiu6zEmfwFx6Lg_pb_x600.png",
+    "winery": "Beringer",
+    "wine": "Cabernet Sauvignon",
+    "price_range": "Around $40 CAD",
+    "description": "Beringer's Cabernet Sauvignon is a classic representation of California's Cabernet style, with bold flavors of black currant, cherry, and cedar, balanced by firm tannins and a long finish.",
+    "food_pairing": "Grilled steak, beef stew, hearty red meat dishes",
+    "appetizer_pairing": "Baked brie with cranberry compote",
+    "country": "United States"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/yXAeiKQgReOW-R0TLDL1dg_pb_x600.png",
+    "winery": "Kendall-Jackson",
+    "wine": "Pinot Noir",
+    "price_range": "Around $35 CAD",
+    "description": "Kendall-Jackson's Pinot Noir showcases bright red fruit flavors of raspberry and cherry, along with hints of vanilla and spice. It offers a smooth texture and a silky finish.",
+    "food_pairing": "Salmon, roasted chicken, mushroom risotto",
+    "appetizer_pairing": "Bruschetta with tomato and basil",
+    "country": "United States"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/qhyAj9xzT8m2jIxSvxS_ZQ_pb_x600.png",
+    "winery": "Columbia Crest",
+    "wine": "Merlot",
+    "price_range": "Around $25 CAD",
+    "description": "Columbia Crest's Merlot is known for its approachable style, with soft tannins and flavors of plum, black cherry, and mocha. It pairs well with a variety of foods.",
+    "food_pairing": "Grilled lamb chops, pasta with marinara sauce, mushroom pizza",
+    "appetizer_pairing": "Stuffed mushrooms with sausage and cheese",
+    "country": "United States"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/_qRbDrBOSiKIT5qiIIIpLA_pb_x600.png",
+    "winery": "Antinori",
+    "wine": "Chianti Classico",
+    "price_range": "Around $40 CAD",
+    "description": "Antinori's Chianti Classico is a classic Tuscan red wine with aromas of ripe cherries, violets, and spice. It has a medium body, firm tannins, and a long, persistent finish.",
+    "food_pairing": "Margherita pizza, pasta with tomato sauce",
+    "appetizer_pairing": "Bruschetta with olive tapenade",
+    "country": "Italy"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/bBCi1Im9TzWSPt0K5OElWQ_pb_x600.png",
+    "winery": "Banfi",
+    "wine": "Brunello di Montalcino",
+    "price_range": "Around $70 CAD",
+    "description": "Banfi's Brunello di Montalcino is a prestigious Italian wine, aged for several years before release. It features intense aromas of dark fruit, leather, and spice, with a robust structure and long aging potential.",
+    "food_pairing": "Grilled steak, wild boar ragù",
+    "appetizer_pairing": "Charcuterie board with cured meats and aged cheeses",
+    "country": "Italy"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/EqPruM3HSomafcCtzYWYwA_pb_x600.png",
+    "winery": "Montes",
+    "wine": "Carmenere",
+    "price_range": "Around $30 CAD",
+    "description": "Montes Carmenere is a flagship Chilean wine known for its deep red color and rich flavors of dark fruit, spice, and chocolate. It has a velvety texture and a long, smooth finish.",
+    "food_pairing": "Grilled lamb chops, spicy beef dishes, mushroom risotto",
+    "appetizer_pairing": "Chilean empanadas with beef filling",
+    "country": "Chile"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/xB_QUSa_QY-gy5_BaMyf7w_pb_x600.png",
+    "winery": "Casilero del Diablo",
+    "wine": "Cabernet Sauvignon",
+    "price_range": "Around $25 CAD",
+    "description": "Casilero del Diablo's Cabernet Sauvignon is a classic Chilean red wine with aromas of black currant, plum, and cedar. It offers rich fruit flavors, firm tannins, and a long, elegant finish.",
+    "food_pairing": "Grilled steak, lamb chops, hearty stews",
+    "appetizer_pairing": "Beef skewers with chimichurri sauce",
+    "country": "Chile"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/p5xnm312Sguvo7MnH8n1FQ_pb_x600.png",
+    "winery": "Tommasi",
+    "wine": "Valpolicella Ripasso",
+    "price_range": "Around $35 CAD",
+    "description": "Tommasi Ripasso is a rich and velvety Italian red wine with aromas of dried fruits, spices, and tobacco. It Aroundg$oes a unique double fermentation process, resulting in enhanced complexity and depth of flavor.",
+    "food_pairing": "Grilled meats, hearty pasta dishes",
+    "appetizer_pairing": "Antipasto platter with cured meats and olives",
+    "country": "Italy"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/_I4TlVjZRNignHi2QjMExA_pb_x600.png",
+    "winery": "Burrowing Owl",
+    "wine": "Merlot",
+    "price_range": "Around $50 CAD",
+    "description": "Burrowing Owl Merlot is a well-balanced Canadian red wine with aromas of plum, blackberry, and vanilla. It has a smooth texture, ripe fruit flavors, and soft tannins.",
+    "food_pairing": "Grilled pork tenderloin, pasta with marinara sauce",
+    "appetizer_pairing": "Stuffed mushrooms with goat cheese and herbs",
+    "country": "Canada"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/V8aq3lRKTYmdbrKQXfTwYw_pb_x600.png",
+    "winery": "Castello di Gabbiano Chianti",
+    "wine": "Chianti",
+    "price_range": "Around $20 CAD",
+    "description": "Chianti is a classic Italian red wine from Tuscany, known for its medium body, bright acidity, and flavors of cherry, plum, and dried herbs. Its vibrant acidity helps cut through the richness of chicken alfredo, creating a balanced pairing.",
+    "food_pairing": "Chicken alfredo, tomato-based pasta dishes, roasted pork",
+    "appetizer_pairing": "Antipasto platter with cured meats and olives",
+    "country": "Italy"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/oEhLsXNnSemkkutJJNCdOA_pb_x600.png",
+    "winery": "Vietti Barbera d'Asti Tre Vigne",
+    "wine": "Barbera d'Asti",
+    "price_range": "Around $25 CAD",
+    "description": "Barbera d'Asti is a medium-bodied Italian red wine from the Piedmont region. It offers ripe fruit flavors of cherry and raspberry, along with lively acidity and soft tannins, making it a versatile match for spaghetti meatballs.",
+    "food_pairing": "Spaghetti meatballs, grilled sausages, mushroom risotto",
+    "appetizer_pairing": "Garlic bread with marinara dipping sauce",
+    "country": "Italy"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/havXGMrzTo-6jQTo5bVutw_pb_x600.png",
+    "winery": "Feudo Maccari Nero d'Avola",
+    "wine": "Nero d'Avola",
+    "price_range": "Around $20 CAD",
+    "description": "Nero d'Avola is a bold and fruity Italian red wine from Sicily. It features flavors of dark berries, plum, and spice, with a smooth texture and moderate tannins, complementing the hearty flavors of spaghetti and meatballs.",
+    "food_pairing": "Spaghetti meatballs, pizza",
+    "appetizer_pairing": "Arancini (Italian rice balls) with marinara sauce",
+    "country": "Italy"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/GlIbTPFoR3-t_rJ-xMr42Q_pb_x600.png",
+    "winery": "Cloudy Bay",
+    "wine": "Pinot Noir",
+    "price_range": "Around $40 CAD",
+    "description": "Cloudy Bay Pinot Noir is a New Zealand wine with delicate flavors of red berries, earth, and spice. It offers a silky texture and a long, elegant finish.",
+    "food_pairing": "Salmon, roasted chicken, mushroom risotto",
+    "appetizer_pairing": "Bruschetta with tomato and basil",
+    "country": "New Zealand"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/vlIzOvojRvCmseCDyYBvuA_pb_x600.png",
+    "winery": "Ravenswood",
+    "wine": "Zinfandel",
+    "price_range": "Around $40 CAD",
+    "description": "Ravenswood Zinfandel is a California wine known for its bold flavors of blackberry, raspberry, and spice. It has a full body and smooth tannins, making it ideal for pairing with barbecue dishes.",
+    "food_pairing": "Barbecue ribs, grilled burgers, spicy chili",
+    "appetizer_pairing": "Bacon-wrapped dates, stuffed jalapenos",
+    "country": "United States"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/kQ2W5Eb3RhSfXUMs4NFHyw_pb_x600.png",
+    "winery": "Masseria Altemura",
+    "wine": "Primitivo",
+    "price_range": "Around $35 CAD",
+    "description": "Masseria Altemura Primitivo is an Italian red wine from Puglia, offering rich flavors of dark fruit, chocolate, and spice. It has a full body and smooth tannins, perfect for pairing with grilled meats and pasta dishes.",
+    "food_pairing": "Grilled steak, hearty pasta dishes",
+    "appetizer_pairing": "Meatballs in marinara sauce, bruschetta with roasted garlic",
+    "country": "Italy"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/V1rimiU4TyC0KMLWjKpSfg_pb_x600.png",
+    "winery": "Château Les Graves de Viaud",
+    "wine": "Bordeaux",
+    "price_range": "Around $50 CAD",
+    "description": "Château Les Graves de Viaud Bordeaux is a classic French wine with flavors of black currant, cedar, and tobacco. It has firm tannins and a long, complex finish, making it a great match for grilled meats and hearty stews.",
+    "food_pairing": "Grilled steak, lamb chops, hearty stews",
+    "appetizer_pairing": "Beef skewers with chimichurri sauce",
+    "country": "France"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/jhwYdMOPTluTXQYVkj86Ug_pb_x600.png",
+    "winery": "Domaine Faiveley",
+    "wine": "Burgundy",
+    "price_range": "Around $60 CAD",
+    "description": "Domaine Faiveley Burgundy is a prestigious French wine made from Pinot Noir grapes. It offers flavors of red berries, earth, and spice, with silky tannins and a long, nuanced finish.",
+    "food_pairing": "Roasted duck, coq au vin, mushroom risotto",
+    "appetizer_pairing": "Brie cheese with baguette slices",
+    "country": "France"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/BG_Gy9K2QaKTRpFt3XGFNQ_pb_x600.png",
+    "winery": "Marqués de Cáceres",
+    "wine": "Rioja",
+    "price_range": "Around $25 CAD",
+    "description": "Marqués de Cáceres Rioja is a classic Spanish red wine with aromas of red berries, vanilla, and spice. It has a smooth texture, balanced acidity, and a long, satisfying finish.",
+    "food_pairing": "Spanish tapas, grilled lamb chops, chorizo",
+    "appetizer_pairing": "Manchego cheese, cured meats, Spanish olives",
+    "country": "Spain"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/Bb2QbQmeS_6ObM1lYR73fA_pb_x600.png",
+    "winery": "Allegrini",
+    "wine": "Amarone",
+    "price_range": "Around $60 CAD",
+    "description": "Allegrini Amarone is a prestigious Italian wine from the Veneto region, made using the appassimento method. It offers intense flavors of dried fruit, spice, and chocolate, with a full body and velvety tannins.",
+    "food_pairing": "Grilled steak, braised short ribs",
+    "appetizer_pairing": "Antipasto platter with cured meats and olives",
+    "country": "Italy"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/z7IzEIk4T3-gN6bm_7W1Sg_pb_x600.png",
+    "winery": "Antinori",
+    "wine": "Toscana",
+    "price_range": "Around $35 CAD",
+    "description": "Antinori Toscana is a classic Italian red wine blend from Tuscany, showcasing Sangiovese and other native grape varieties. It offers flavors of cherry, plum, and herbs, with a balanced acidity and smooth tannins.",
+    "food_pairing": "Margherita pizza, pasta with tomato sauce",
+    "appetizer_pairing": "Bruschetta with olive tapenade",
+    "country": "Italy"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/TCO3GnUAQKGD4ZA6fWdUkg_pb_x600.png",
+    "winery": "Campo Viejo",
+    "wine": "Tempranillo",
+    "price_range": "Around $30 CAD",
+    "description": "Tempranillo's medium body and fruity flavors, with hints of spice, make it a versatile pairing for various taco fillings, including beef, chicken, or pork.",
+    "food_pairing": "Beef tacos, carnitas tacos, vegetable tacos",
+    "appetizer_pairing": "Queso fundido with chorizo",
+    "country": "Spain"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/x38G2TKXRk-AqTHUj0tOiw_pb_x600.png",
+    "winery": "Henry Fessy",
+    "wine": "Gamay Noir",
+    "price_range": "Around $20 CAD",
+    "description": "Gamay Noir is a light-bodied red wine with bright acidity and flavors of red berries, making it a refreshing match for the richness of poutine.",
+    "food_pairing": "Poutine, roasted vegetables",
+    "appetizer_pairing": "Crispy bacon-wrapped dates",
+    "country": "Canada"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/Sa9YMMsvT-Sdn8clSNSa1g_pb_x600.png",
+    "winery": "Cono Sur",
+    "wine": "Pinot Noir",
+    "price_range": "Around $30 CAD",
+    "description": "Pinot Noir's light body and red fruit flavors, along with its vibrant acidity, make it a versatile pairing for various sushi rolls, including tuna, salmon, or vegetable options.",
+    "food_pairing": "Sushi rolls (tuna, salmon, sashimi, seafood ceviche",
+    "appetizer_pairing": "Edamame, miso soup, seaweed salad",
+    "country": "Chile"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/xNc24-J-QgmB54uEEH4PYg_pb_x600.png",
+    "winery": "Inniskillin",
+    "wine": "Riesling",
+    "price_range": "Around $20 CAD",
+    "description": "Riesling offers a touch of sweetness balanced by crisp acidity, enhancing the flavors of poutine while providing a refreshing contrast.",
+    "food_pairing": "Poutine, spicy dishes, Asian cuisine",
+    "appetizer_pairing": "Ahi tuna poke bowls",
+    "country": "Canada"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/DdHBF_5lTw-tN0MHFG1g9g_pb_x600.png",
+    "winery": "Kim Crawford",
+    "wine": "Sauvignon Blanc",
+    "price_range": "Around $25 CAD",
+    "description": "Sauvignon Blanc's vibrant acidity and citrus notes complement the freshness and spice of tacos, especially those with seafood or lighter meats.",
+    "food_pairing": "Fish tacos, shrimp tacos, vegetarian tacos",
+    "appetizer_pairing": "Guacamole with tortilla chips, Ceviche with tortilla chips",
+    "country": "New Zealand"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/7j0nFOSFQqeSBNFAVsbGWQ_pb_x600.png",
+    "winery": "Chateau Ste. Michelle",
+    "wine": "Chardonnay",
+    "price_range": "Around $25 CAD",
+    "description": "Chateau Ste. Michelle's Chardonnay offers ripe apple and pear flavors, accented by notes of vanilla and spice. It has a creamy texture and a lingering finish.",
+    "food_pairing": "Grilled shrimp, roasted turkey, creamy pasta dishes, fried chicken",
+    "appetizer_pairing": "Crab cakes with remoulade sauce",
+    "country": "United States"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/S6_Ul1RuS7qe_o8-htEgSw_pb_x600.png",
+    "winery": "Domaine Zind-Humbrecht",
+    "wine": "Gewürztraminer",
+    "price_range": "Around $25 CAD",
+    "description": "Gewürztraminer's aromatic profile, with notes of lychee, rose petal, and spice, complements the creamy and mildly spiced flavors of butter chicken.",
+    "food_pairing": "Butter chicken, basmati rice, naan bread",
+    "appetizer_pairing": "Vegetable pakoras with mint chutney",
+    "country": "France"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/ZcyDP7caSyGwC3m9q258ug_pb_x600.png",
+    "winery": "Pierre Sparr",
+    "wine": "Pinot Blanc",
+    "price_range": "Around $20 CAD",
+    "description": "Chenin Blanc's crisp acidity and fruity flavors, such as apple and pear, complement the spiced filling of samosas, creating a refreshing pairing.",
+    "food_pairing": "Vegetable samosas, chicken samosas, chutneys",
+    "appetizer_pairing": "Vegetable spring rolls",
+    "country": "France"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/BwsoSmPOSaWag6iDYZwfFw_pb_x600.png",
+    "winery": "La Crema",
+    "wine": "Pinot Gris",
+    "price_range": "Around $25 CAD",
+    "description": "La Crema's Pinot Gris is crisp and refreshing, with flavors of white peach, citrus, and honeydew melon. It has a lively acidity and a clean, zesty finish.",
+    "food_pairing": "Lemon chicken, seafood linguine",
+    "appetizer_pairing": "Caprese skewers with balsamic glaze",
+    "country": "United States"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/fuGbg3geRx6ms6Nupd3yrw_pb_x600.png",
+    "winery": "Livio Felluga",
+    "wine": "Pinot Grigio",
+    "price_range": "Around $30 CAD",
+    "description": "Livio Felluga's Pinot Grigio is a crisp and elegant Italian white wine with delicate floral and citrus aromas. It offers flavors of green apple, pear, and mineral notes, with a refreshing acidity.",
+    "food_pairing": "Seafood risotto, light salads",
+    "appetizer_pairing": "Shrimp cocktail, bruschetta with tomato and basil",
+    "country": "Italy"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/2xQwGlDxRKy4zDAe8a9uRg_pb_x600.png",
+    "winery": "Pio Cesare",
+    "wine": "Cortese",
+    "price_range": "Around $35 CAD",
+    "description": "Gavi di Gavi is a crisp Italian white wine made from the Cortese grape. It features aromas of white flowers and stone fruits, with a zesty citrus flavor and a refreshing finish.",
+    "food_pairing": "Grilled fish, seafood linguine, chicken piccata",
+    "appetizer_pairing": "Antipasto platter with marinated vegetables and cured meats",
+    "country": "Italy"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/FtAtgRnxQlGqeO5-_D607Q_pb_x600.png",
+    "winery": "Dr. Loosen",
+    "wine": "Riesling",
+    "price_range": "Around $20 CAD",
+    "description": "Albariño's crisp acidity and flavors of citrus, green apple, and stone fruit complement the fresh and vibrant flavors of poke, enhancing each bite.",
+    "food_pairing": "Ahi tuna poke, salmon poke, sushi rice bowls",
+    "appetizer_pairing": "Edamame",
+    "country": "Germany"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/22d-IKVvQz2NxJ07oQTRuw_pb_x600.png",
+    "winery": "Weingut Stadt Krems",
+    "wine": "Grüner Veltliner",
+    "price_range": "Around $20 CAD",
+    "description": "Grüner Veltliner's zesty acidity, along with flavors of green apple, white pepper, and herbaceous notes, provides a refreshing contrast to the seafood and umami flavors of poke.",
+    "food_pairing": "Salmon poke, octopus poke, seaweed salad",
+    "appetizer_pairing": "Shrimp summer rolls with peanut dipping sauce",
+    "country": "Austria"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/pOpJrYa2Trm1X8OPW8Pj2w_pb_x600.png",
+    "winery": "Montes",
+    "wine": "Sauvignon Blanc",
+    "price_range": "Around $20 CAD",
+    "description": "Montes Sauvignon Blanc is a refreshing Chilean white wine with aromas of citrus, green apple, and fresh herbs. It has crisp acidity and bright fruit flavors, perfect for warm weather enjoyment.",
+    "food_pairing": "Ceviche, grilled fish tacos, goat cheese salad",
+    "appetizer_pairing": "Shrimp cocktail with avocado salsa",
+    "country": "Chile"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/MqPNVzifTOaZZnH49pppaQ_pb_x600.png",
+    "winery": "Burrowing Owl",
+    "wine": "Chardonnay",
+    "price_range": "Around $30 CAD",
+    "description": "Burrowing Owl Chardonnay is a premium Canadian white wine from British Columbia's Okanagan Valley. It exhibits aromas of ripe apple, pear, and citrus, with a creamy texture and well-integrated oak.",
+    "food_pairing": "Grilled salmon, roasted chicken, creamy pasta dishes",
+    "appetizer_pairing": "Smoked salmon canapés",
+    "country": "Canada"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/fYL39nSYRzauDUX0NT_RhQ_pb_x600.png",
+    "winery": "Jackson-Triggs",
+    "wine": "Riesling",
+    "price_range": "Around $20 CAD",
+    "description": "Jackson-Triggs Riesling is a vibrant Canadian white wine with aromas of green apple, lime, and peach. It has a hint of sweetness balanced by crisp acidity, making it versatile and refreshing.",
+    "food_pairing": "Spicy Thai dishes, grilled shrimp, fresh salads, sushi rolls with spicy mayo",
+    "appetizer_pairing": "Fresh spring rolls with peanut dipping sauce, Pork dumplings with sweet chili sauce",
+    "country": "Canada"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/aeX0r_mBT2OqGgxfsdky6A_pb_x600.png",
+    "winery": "Mission Estate Winery",
+    "wine": "Gewürztraminer",
+    "price_range": "Around $20 CAD",
+    "description": "Mission Estate Winery Gewürztraminer offers aromatic notes of lychee, rose petals, and exotic spices. It has a medium body, balanced acidity, and a hint of sweetness, making it a delightful pairing with sushi's diverse flavors.",
+    "food_pairing": "Sushi rolls with spicy mayo, sashimi platter, vegetable tempura",
+    "appetizer_pairing": "Edamame, seaweed salad",
+    "country": "New Zealand"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/z-9SVjLsSU6hKCWngR8PsQ_pb_x600.png",
+    "winery": "Inniskillin",
+    "wine": "Pinot Gris",
+    "price_range": "Around $25 CAD",
+    "description": "Inniskillin's Pinot Gris exhibits ripe pear, apple, and citrus aromas with subtle floral Aroundt$ones. It has a crisp acidity and a medium body, complementing the richness of cheese pasta dishes.",
+    "food_pairing": "Creamy cheese pasta, spinach and ricotta ravioli, baked macaroni and cheese",
+    "appetizer_pairing": "Garlic breadsticks, caprese salad",
+    "country": "Canada"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/zrrlqhQTS2yBUqOmb95mVw_pb_x600.png",
+    "winery": "McKahn",
+    "wine": "Viognier",
+    "price_range": "Around $30 CAD",
+    "description": "Tinhorn Creek's Viognier offers enticing floral aromas, ripe peach, apricot, and honeyed notes. It has a medium to full body with a lush texture and balanced acidity, making it a wonderful accompaniment to roast turkey.",
+    "food_pairing": "Roast turkey with sage stuffing, Roast turkey with cranberry sauce, roasted root vegetables",
+    "appetizer_pairing": "Butternut squash soup, pear and goat cheese salad",
+    "country": "United States"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/jAjFPZlvT_iLKvNjeTCqJg_pb_x600.png",
+    "winery": "Cecchi",
+    "wine": "Vernaccia di San Gimignano",
+    "price_range": "Around $20 CAD",
+    "description": "Vernaccia di San Gimignano is a crisp and dry white wine from Tuscany, Italy. It has refreshing acidity and flavors of citrus, green apple, and a hint of minerality, making it an excellent complement to creamy carbonara pasta.",
+    "food_pairing": "Carbonara pasta, creamy risotto, seafood linguine",
+    "appetizer_pairing": "Bruschetta with tomato and basil",
+    "country": "Italy"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/3vWw8RC7Sw-PFzOBZxK3vQ_pb_x600.png",
+    "winery": "Lidl",
+    "wine": "Soave Classico",
+    "price_range": "Around $20 CAD",
+    "description": "Soave Classico is a light-bodied Italian white wine from the Veneto region. It offers delicate floral aromas, crisp acidity, and flavors of pear, lemon, and almond, which pair beautifully with creamy chicken alfredo.",
+    "food_pairing": "Chicken alfredo, grilled chicken, seafood pasta",
+    "appetizer_pairing": "Caprese salad with fresh mozzarella and basil",
+    "country": "Italy"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/GWXlMZrrQg6Jekk3LYVkCQ_pb_x600.png",
+    "winery": "Bodegas Ateca",
+    "wine": "Grenache Rosé",
+    "price_range": "Around $25 CAD",
+    "description": "Grenache Rosé's vibrant acidity and red fruit flavors, like strawberry and raspberry, provide a delightful contrast to the savory and aromatic spices found in samosas.",
+    "food_pairing": "Vegetable samosas, lamb samosas, cucumber raita",
+    "appetizer_pairing": "Papadum with mango chutney",
+    "country": "Spain"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/8WiWvksOTs63aYa9BR7EbA_pb_x600.png",
+    "winery": "Mirabeau",
+    "wine": "Provence",
+    "price_range": "Around $20 CAD",
+    "description": "Mirabeau Provence is a delightful French rosé wine with flavors of strawberries, citrus, and herbs. It has a crisp acidity and a refreshing finish, perfect for warm weather enjoyment.",
+    "food_pairing": "Summer salads, grilled fish, vegetable platter",
+    "appetizer_pairing": "Caprese skewers, bruschetta with olive tapenade",
+    "country": "France"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/nS-eraLsRtCndWuUq3Lfpg_pb_x600.png",
+    "winery": "Henry of Pelham",
+    "wine": "Rosé",
+    "price_range": "Around $20 CAD",
+    "description": "Henry of Pelham Rosé is a refreshing Canadian wine with aromas of strawberries, watermelon, and citrus. It has a lively acidity and a crisp, dry finish, perfect for warm weather sipping.",
+    "food_pairing": "Grilled shrimp skewers, summer salads",
+    "appetizer_pairing": "Goat cheese crostini with honey and thyme",
+    "country": "Canada"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/eFrvqMWNSxCC5_TmdjTQjQ_pb_x600.png",
+    "winery": "Whispering Angel",
+    "wine": "Rosé",
+    "price_range": "Around $30 CAD",
+    "description": "Whispering Angel's Rosé is a Provence-style rosé with delicate flavors of strawberry, peach, and citrus. It has a light, refreshing acidity and a dry, crisp finish.",
+    "food_pairing": "Salmon tartare, summer salads, grilled chicken",
+    "appetizer_pairing": "Watermelon and feta skewers",
+    "country": "France"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/B8GACFDaQ46Um8aRh9qiWg_pb_x600.png",
+    "winery": "Miraval",
+    "wine": "Rosé",
+    "price_range": "Around $35 CAD",
+    "description": "Miraval's Rosé is produced in collaboration with the Perrin family of Château de Beaucastel. It features flavors of red berries, floral notes, and hints of minerality, with a silky texture and a long, elegant finish.",
+    "food_pairing": "Lobster rolls, sushi",
+    "appetizer_pairing": "Shrimp cocktail with spicy cocktail sauce",
+    "country": "France"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/ARJgd09SQVyL5yQSgZH7Tg_pb_x600.png",
+    "winery": "AIX",
+    "wine": "Rosé",
+    "price_range": "Around $25 CAD",
+    "description": "AIX Rosé is a classic Provence-style rosé with aromas of strawberries and raspberries, complemented by floral notes. It has a crisp acidity and a refreshing finish, making it perfect for outdoor gatherings.",
+    "food_pairing": "Mussels in white wine sauce, grilled shrimp skewers, Caesar salad",
+    "appetizer_pairing": "Smoked salmon and cucumber bites",
+    "country": "France"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/dwpYXmARRTGhvn7GOZ9QJw_pb_x600.png",
+    "winery": "Korbel",
+    "wine": "Brut",
+    "price_range": "Around $20 CAD",
+    "description": "Korbel Brut is a crisp, dry sparkling wine with flavors of green apple, citrus, and toasted bread. It's a versatile option for celebrations or as an aperitif.",
+    "food_pairing": "Brunch dishes, seafood platter, fried chicken",
+    "appetizer_pairing": "Deviled eggs with caviar",
+    "country": "United States"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/lOSNkG3AQbyUmz9xlXRJbg_pb_x600.png",
+    "winery": "Gruet",
+    "wine": "Blanc de Blancs",
+    "price_range": "Around $25 CAD",
+    "description": "Gruet Blanc de Blancs is made from 100% Chardonnay grapes and offers crisp acidity, with flavors of green apple, pear, and lemon zest. It has a creamy texture and a long, refreshing finish.",
+    "food_pairing": "Sushi, oysters Rockefeller, lemon meringue pie",
+    "appetizer_pairing": "Brie and pear puff pastry bites",
+    "country": "United States"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/tZCwXM0dRbOMbLcz4DoEJg_pb_x600.png",
+    "winery": "Domaine Ste. Michelle",
+    "wine": "Brut Rosé",
+    "price_range": "Around $25 CAD",
+    "description": "Domaine Ste. Michelle's Brut Rosé is a festive sparkling wine with aromas of strawberries, raspberries, and rose petals. It has a lively acidity and a delicate mousse, making it perfect for toasting special occasions.",
+    "food_pairing": "Chicken salad sandwiches",
+    "appetizer_pairing": "Crab-stuffed mushrooms",
+    "country": "United States"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/HxjD8_4-SA-T1MG32y9_1Q_pb_x600.png",
+    "winery": "Freixenet",
+    "wine": "Cava",
+    "price_range": "Around $25 CAD",
+    "description": "Freixenet Cava is a popular Spanish sparkling wine with lively bubbles and refreshing flavors of green apple, citrus, and toasted almonds. It's a versatile option for celebrations or as an aperitif.",
+    "food_pairing": "Tapas, seafood paella, fried chicken",
+    "appetizer_pairing": "Spanish olives and almonds",
+    "country": "Spain"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/x_48RVzvScSGFyHYa0KMlA_pb_x600.png",
+    "winery": "Segura Viudas",
+    "wine": "Cava",
+    "price_range": "Around $30 CAD",
+    "description": "Segura Viudas Cava is a crisp and refreshing Spanish sparkling wine with delicate bubbles and flavors of green apple, pear, and citrus. It's a great choice for toasting special occasions or enjoying with appetizers.",
+    "food_pairing": "Sushi, grilled shrimp",
+    "appetizer_pairing": "Smoked salmon canapés",
+    "country": "Spain"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/naweP9jmQKiKMtXO0IaP1w_pb_x600.png",
+    "winery": "Mumm Napa",
+    "wine": "Brut Rosé",
+    "price_range": "Around $35 CAD",
+    "description": "Mumm Napa Brut Rosé is a vibrant sparkling wine with aromas of strawberries, raspberries, and rose petals. It has a lively acidity and a creamy texture, perfect for toasting special moments or pairing with a variety of dishes.",
+    "food_pairing": "chicken salad sandwiches",
+    "appetizer_pairing": "Crab-stuffed mushrooms",
+    "country": "United States"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/allYkjnVTsiq2Uhv4pt7kg_pb_x600.png",
+    "winery": "Veuve Clicquot",
+    "wine": "Champagne",
+    "price_range": "Around $60 CAD",
+    "description": "Veuve Clicquot Brut is a prestigious French Champagne known for its consistent quality and signature yellow label. It offers flavors of green apple, citrus, and brioche, with a fine mousse and a lingering finish.",
+    "food_pairing": "Oysters, caviar, roasted chicken",
+    "appetizer_pairing": "Brie and pear puff pastry bites",
+    "country": "France"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/rMVZMDzeRBWHCcA2a0AgFA_pb_x600.png",
+    "winery": "Moët & Chandon",
+    "wine": "Champagne",
+    "price_range": "Around $70 CAD",
+    "description": "Moët & Chandon Brut Impérial is a classic French Champagne with a perfect balance of freshness and intensity. It features flavors of green apple, citrus, and toasted bread, with a fine, persistent mousse.",
+    "food_pairing": "Shellfish, sushi, white chocolate desserts",
+    "appetizer_pairing": "Smoked salmon canapés",
+    "country": "France"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/jm4vQpVbSUmUWlGj6dZNng_pb_x600.png",
+    "winery": "Cleto Chiarli",
+    "wine": "Lambrusco",
+    "price_range": "Around $20 CAD",
+    "description": "Cleto Chiarli Lambrusco is a vibrant Italian red wine with flavors of dark berries, plum, and a hint of earthiness. It has a slight effervescence and a semi-dry finish, making it a versatile pairing for a variety of dishes.",
+    "food_pairing": "Pizza, pasta with tomato sauce",
+    "appetizer_pairing": "Stuffed Mushrooms",
+    "country": "Italy"
+  }
+]

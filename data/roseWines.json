@@ -1,0 +1,82 @@
+[
+  {
+    "image": "https://images.vivino.com/thumbs/GWXlMZrrQg6Jekk3LYVkCQ_pb_x600.png",
+    "winery": "Bodegas Ateca",
+    "wine": "Grenache Rosé",
+    "price_range": "Under 25 CAD",
+    "description": "Grenache Rosé's vibrant acidity and red fruit flavors, like strawberry and raspberry, provide a delightful contrast to the savory and aromatic spices found in samosas.",
+    "food_pairing": "Vegetable samosas, lamb samosas, cucumber raita",
+    "appetizer_pairing": "Papadum with mango chutney",
+    "country": "Spain"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/8WiWvksOTs63aYa9BR7EbA_pb_x600.png",
+    "winery": "Mirabeau",
+    "wine": "Provence Rosé",
+    "price_range": "Under 20 CAD",
+    "description": "Mirabeau Provence is a delightful French rosé wine with flavors of strawberries, citrus, and herbs. It has a crisp acidity and a refreshing finish, perfect for warm weather enjoyment.",
+    "food_pairing": "Summer salads, grilled fish, vegetable platter",
+    "appetizer_pairing": "Caprese skewers, bruschetta with olive tapenade",
+    "country": "France"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/nS-eraLsRtCndWuUq3Lfpg_pb_x600.png",
+    "winery": "Henry of Pelham",
+    "wine": "Rosé",
+    "price_range": "Under 20 CAD",
+    "description": "Henry of Pelham Rosé is a refreshing Canadian wine with aromas of strawberries, watermelon, and citrus. It has a lively acidity and a crisp, dry finish, perfect for warm weather sipping.",
+    "food_pairing": "Grilled shrimp skewers, summer salads, fruit tarts",
+    "appetizer_pairing": "Goat cheese crostini with honey and thyme",
+    "country": "Canada"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/eFrvqMWNSxCC5_TmdjTQjQ_pb_x600.png",
+    "winery": "Whispering Angel",
+    "wine": "Rosé",
+    "price_range": "Under 30 CAD",
+    "description": "Whispering Angel's Rosé is a Provence-style rosé with delicate flavors of strawberry, peach, and citrus. It has a light, refreshing acidity and a dry, crisp finish.",
+    "food_pairing": "Salmon tartare, summer salads, grilled chicken",
+    "appetizer_pairing": "Watermelon and feta skewers",
+    "country": "France"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/B8GACFDaQ46Um8aRh9qiWg_pb_x600.png",
+    "winery": "Miraval",
+    "wine": "Rosé",
+    "price_range": "Under 35 CAD",
+    "description": "Miraval's Rosé is produced in collaboration with the Perrin family of Château de Beaucastel. It features flavors of red berries, floral notes, and hints of minerality, with a silky texture and a long, elegant finish.",
+    "food_pairing": "Lobster rolls, sushi, grilled vegetables",
+    "appetizer_pairing": "Shrimp cocktail with spicy cocktail sauce",
+    "country": "France"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/ARJgd09SQVyL5yQSgZH7Tg_pb_x600.png",
+    "winery": "AIX",
+    "wine": "Rosé",
+    "price_range": "Under 25 CAD",
+    "description": "AIX Rosé is a classic Provence-style rosé with aromas of strawberries and raspberries, complemented by floral notes. It has a crisp acidity and a refreshing finish, making it perfect for outdoor gatherings.",
+    "food_pairing": "Mussels in white wine sauce, grilled shrimp skewers, Caesar salad",
+    "appetizer_pairing": "Smoked salmon and cucumber bites",
+    "country": "France"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/fgIBY9qMQjuQZjJnU2a9xA_pb_x600.png",
+    "winery": "Hardys",
+    "wine": "Shiraz Rosé",
+    "price_range": "Under 20 CAD",
+    "description": "Hardys Stamp Shiraz Rosé is a vibrant and fruity rosé wine with flavors of ripe strawberries and hints of spice. It offers a refreshing acidity and a crisp finish, perfect for enjoying on warm summer days.",
+    "food_pairing": "Grilled chicken, pasta primavera, mixed berry pavlova",
+    "appetizer_pairing": "Antipasto platter with olives and cured meats",
+    "country": "Australia"
+  },
+  {
+    "image": "https://images.vivino.com/thumbs/vO8jciULQviETZqp3Qwwaw_pb_x600.png",
+    "winery": "Roche Mazet",
+    "wine": "Cinsault Rosé",
+    "price_range": "Under 25 CAD",
+    "description": "Roche Mazet's Cuvée Spéciale Grenache - Cinsault Rosé is a delightful blend offering a harmonious balance of Grenache and Cinsault grapes. It features flavors of red berries, citrus, and floral notes, with a crisp acidity and a refreshing finish.",
+    "food_pairing": "Grilled seafood, Mediterranean salads, berry tart",
+    "appetizer_pairing": "Goat cheese bruschetta with balsamic glaze",
+    "country": "France"
+  }
+]
