@@ -17,5 +17,5 @@ export async function up(knex) {
 }
 
 export async function down(knex) {
-  return knex.schema.dropTable("wines");
+  return knex.schema.dropTable("wines1");
 }
