@@ -3,7 +3,7 @@
  * @returns { Promise<void> }
  */
 export async function up(knex) {
-  return knex.schema.createTable("wines1", function (table) {
+  return knex.schema.createTable("wines", function (table) {
     table.increments("id").primary();
     table.string("image");
     table.string("winery");
@@ -17,5 +17,5 @@ export async function up(knex) {
 }
 
 export async function down(knex) {
-  return knex.schema.dropTable("wines1");
+  return knex.schema.dropTable("wines");
 }
