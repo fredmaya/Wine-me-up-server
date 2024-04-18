@@ -55,6 +55,7 @@
     "description": "A luxurious dessert wine made from grapes frozen on the vine, resulting in intense sweetness and concentrated flavors of tropical fruits. It pairs beautifully with fruity desserts and rich appetizers."
   },
   {
+    "image": "https://images.vivino.com/thumbs/rfTkSLzvT3mZr58qSKT0fA_pb_x600.png",
     "winery": "M. Chapoutier",
     "wine": "Muscat de Beaumes-de-Venise",
     "country": "France",
@@ -65,6 +66,7 @@
     "description": "A fragrant, aromatic dessert wine with flavors of orange blossom, apricot, and honey. It pairs beautifully with fruity desserts and almond-based treats."
   },
   {
+    "image": "https://images.vivino.com/thumbs/IW4LY7lKSRKNHS4xoqyO6A_pb_x600.png ",
     "winery": "Toro Albalá",
     "wine": "Pedro Ximénez",
     "country": "Spain",
@@ -75,6 +77,7 @@
     "description": "A rich, syrupy dessert wine with flavors of fig, raisin, and caramel. It pairs beautifully with chocolate desserts and savory appetizers."
   },
   {
+    "image": "https://images.vivino.com/thumbs/-8GHsHqCSwGY1FFa9I0q0g_pb_x600.png",
     "winery": "Washington Hills",
     "wine": "Late Harvest Riesling",
     "country": "USA/New Zealand",
