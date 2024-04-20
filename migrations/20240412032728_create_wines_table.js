@@ -12,6 +12,7 @@ export async function up(knex) {
     table.text("description");
     table.string("food_pairing");
     table.string("appetizer_pairing");
+    table.string("dessert_pairing");
     table.string("country");
   });
 }

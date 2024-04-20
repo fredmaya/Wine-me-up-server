@@ -1,13 +1,10 @@
-import dotenv from "dotenv";
 import express from "express";
+import dotenv from "dotenv";
 import cors from "cors";
-import { default as wineRouts } from "./routes/wineRoute.js";
+import wineRoutes from "./routes/wineRoute.js";
+import promptRoutes from "./routes/promptRoute.js";
 
-try {
-  dotenv.config();
-} catch (error) {
-  console.error("Failed to load .env file.");
-}
+dotenv.config();
 
 const app = express();
 const port = process.env.PORT || 8080;
@@ -16,9 +13,10 @@ app.use(express.json());
 app.use(cors());
 
 app.get("/", (_req, res) => {
-  res.send("Welcome to my API");
+  res.send("Welcome to my Wine Me UP! API");
 });
 
-app.use("/data", wineRouts);
+app.use("/data", wineRoutes);
+app.use("/prompt", promptRoutes);
 
 app.listen(port, () => console.log(`Listening on ${port}`));
